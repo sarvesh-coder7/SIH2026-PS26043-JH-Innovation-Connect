@@ -1,6 +1,8 @@
-# 🌐 JH Innovation Connect
+<h1 align="center">🌐 JH Innovation Connect</h1>
 
-### *Where Jharkhand's Challenges Meet Innovation*
+<h3 align="center">
+  <i>Where Jharkhand's Challenges Meet Innovation</i>
+</h3>
 
 **JH Innovation Connect** is a technology-enabled **Societal Innovation Collaboration Portal** designed to connect **citizens, communities, government departments, Higher Education Institutions (HEIs), universities, industries, startups, MSMEs, CSR organizations, research institutions, and innovation ecosystems** on a single platform.
 
